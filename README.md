@@ -1,0 +1,3 @@
+# modeloweb
+este es una evaluacion de las primeras de css con flexbox
+en este paquete se inicia el camino para el posicionamiento de los elem del layout utilizando flexbox...
